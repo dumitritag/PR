@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50cd6411-c738-4087-9211-fbad005f3a51" name="Default" comment="" />
+    <list default="true" id="e405ba9c-5206-4561-a315-37af41cee615" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,20 +58,20 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_1_PR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_1_PR" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,17 +182,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="50cd6411-c738-4087-9211-fbad005f3a51" name="Default" comment="" />
-      <created>1517996475327</created>
+      <changelist id="e405ba9c-5206-4561-a315-37af41cee615" name="Default" comment="" />
+      <created>1517997787011</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1517996475327</updated>
-      <workItem from="1517996481274" duration="130000" />
+      <updated>1517997787011</updated>
+      <workItem from="1517997798759" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130000" />
+    <option name="totallyTimeSpent" value="24000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="20" width="1400" height="980" extended-state="1" />
