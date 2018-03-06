@@ -12,6 +12,6 @@ public class Category {
         this.name = name;
         this.categoryId = categoryId;
     }
-    
+
 
 }
