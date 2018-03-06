@@ -29,7 +29,7 @@ public class Order {
                 list.add(string.substring(lastPosition, i));
             }
         }
-//d
+
         this.id = list.get(0);
         this.total = Double.parseDouble(list.get(1));
         this.category_id = Integer.parseInt(list.get(2));
