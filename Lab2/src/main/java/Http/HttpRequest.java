@@ -11,7 +11,6 @@ public class HttpRequest {
     private String url;
     private String key;
     private ArrayList<String> list;
-
     public HttpRequest(String url, String key) {
         this.url = url;
         this.key = key;
@@ -22,7 +21,7 @@ public class HttpRequest {
         try {
             URL url = new URL(this.url);
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
-
+//conection
             connection.setRequestMethod("GET");
             connection.setDoOutput(true);
             connection.setRequestProperty("Accept", "text/csv");
