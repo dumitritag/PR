@@ -29,7 +29,5 @@ public class Main {
         }
         System.out.println("1 size" + orders.size() + "2 lista" + ordersList.size());
 
-
-
     }
 }
