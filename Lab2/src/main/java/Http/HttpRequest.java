@@ -21,7 +21,7 @@ public class HttpRequest {
         try {
             URL url = new URL(this.url);
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
-//conection
+
             connection.setRequestMethod("GET");
             connection.setDoOutput(true);
             connection.setRequestProperty("Accept", "text/csv");
